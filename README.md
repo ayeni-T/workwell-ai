@@ -134,7 +134,7 @@ npm start
 ## 👥 Team
 
 - **Taiwo Michael Ayeni** – [@ayeni-T](https://github.com/ayeni-T)  
-- **Paul Ojenomo**
+- **Paul Ojenomo** -[@jaydgreat](https://github.com/jaydgreat)
 
 ---
 
