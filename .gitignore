@@ -1,0 +1,22 @@
+# Environment & system files
+venv/
+.env
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+
+# Node and build artifacts (if present)
+node_modules/
+build/
+dist/
+
+# Logs and videos
+*.log
+*.mp4
+*.mov
+*.avi
+
+# IDE/workspace settings
+.vscode/
+.idea/
