@@ -1,0 +1,25 @@
+# === Backend (Python/Flask) ===
+__pycache__/
+*.py[cod]
+*.pkl
+*.sqlite3
+*.db
+*.log
+.env
+venv/
+instance/
+*.pyc
+.DS_Store
+
+# === Frontend (React) ===
+node_modules/
+.env
+build/
+dist/
+*.log
+
+# === Common ===
+*.bak
+*.tmp
+*.swp
+Thumbs.db
